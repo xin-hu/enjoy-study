@@ -11,7 +11,7 @@ public class DemoApplication {
 
     @RequestMapping("/demo")
     public String getMessage(){
-        return "hello xiao xi fu --master v9.0 https ";
+        return "hello xiao xi fu --master v9.0 https git hub edit";
     }
 
     public static void main(String[] args) {
