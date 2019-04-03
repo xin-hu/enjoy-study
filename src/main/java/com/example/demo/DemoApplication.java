@@ -11,7 +11,7 @@ public class DemoApplication {
 
     @RequestMapping("/demo")
     public String getMessage(){
-        return "hello xiao xi fu";
+        return "hello xiao xi fu --master v8.0";
     }
 
     public static void main(String[] args) {
